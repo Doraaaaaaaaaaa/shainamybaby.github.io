@@ -70,7 +70,7 @@
     font-family: 'Bradley Hand', 'Comic Sans MS', cursive;
     color: var(--txt-color);
     text-align: justify;
-    font-size: 3.5px;
+    font-size: 8px;
   }
   .heart {
     position: absolute;
